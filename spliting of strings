@@ -1,0 +1,3 @@
+s='3 9 81'
+print(s.split())  #here whitespace used to split
+
